@@ -1,0 +1,9 @@
+# .gitignore 
+###################
+
+# ignore all files ...
+
+cache
+var
+node_modules
+public/assets
